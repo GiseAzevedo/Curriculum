@@ -1,0 +1,57 @@
+.container{
+    margin: 64px;
+    padding: 64px;
+    }
+
+    .cabecalho {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .perfil {
+        display: flex;
+      }
+      
+     
+    .perfil-foto{
+        width: 250px;
+        margin: auto;
+    }
+
+
+    .titulo {
+        margin-left: 16px;
+      }
+      
+      .titulo h1 {
+        font-size: 26px;
+        font-family: arial;
+              }
+
+.titulo h4{
+    font-size: 15px;
+    font-family: arial;
+}
+
+
+p{
+    text-align: justify;
+    font-size: 14px;
+    font-family: arial;
+}
+
+h2{
+    background-color:rgb(202, 202, 202);
+    font-size: 20px;
+    font-family: arial;
+}
+
+h3{
+    font-size: 16px;
+    font-family: arial;
+}
+
+h4{
+    font-size: 14px;
+    font-family: arial;
+}
